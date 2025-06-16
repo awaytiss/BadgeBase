@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-06-16 | [EWCcrush](https://badgebase.co/emotes/emotesv2_4bedc043ba724298871173f3052f0e21/) | Emote | 🟢 Added |
 | 2025-06-10 | [Bot Badge](https://badgebase.co/badges/bot-badge-v1/) | Badge | 🟢 Added |
 | 2025-06-09 | [EleGiggle](https://badgebase.co/emotes/emotesv2_cb0cec2c9975497fa093be1c3276dd92/) | Emote | 🟢 Added |
 | 2025-06-01 | [FaZe](https://badgebase.co/emotes/emotesv2_300bb38420034c489c99c9d32d07f298/) | Emote | 🔴 Removed |
