@@ -11,6 +11,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 | Date | Name | Type | Status |
 |------|------|------|--------|
 | 2025-06-24 | [League of Legends Mid Season Invitational 2025](https://badgebase.co/badges/league-of-legends-mid-season-invitational-2025-purple-v1/) | Badge | 🟢 Added |
+| 2025-06-24 | [League of League Mid Season Invitational 2025 Support a Streamer](https://badgebase.co/badges/league-of-legends-mid-season-invitational-2025-grey-v1/) | Badge | 🟢 Added |
 | 2025-06-20 | [Borderlands 4 Badge - Ripper](https://badgebase.co/badges/borderlands-4-badge-ripper-v1/) | Badge | 🟢 Added |
 | 2025-06-20 | [Borderlands 4 Badge - Vault Symbol](https://badgebase.co/badges/borderlands-4-badge-vault-symbol-v1/) | Badge | 🟢 Added |
 | 2025-06-16 | [EWCcrush](https://badgebase.co/emotes/emotesv2_4bedc043ba724298871173f3052f0e21/) | Emote | 🟢 Added |
