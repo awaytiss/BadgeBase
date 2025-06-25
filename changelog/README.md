@@ -66,7 +66,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 | 2025-02-14 | [ShareTheVE](https://badgebase.co/emotes/emotesv2_63a6315078fb4d5d9649587e09fd92e3/) | Emote | 🟢 Added |
 | 2025-02-14 | [ShareTheLO](https://badgebase.co/emotes/emotesv2_dfb329d0b6c942fdb8ed837a49adea94/) | Emote | 🟢 Added |
 | 2025-02-14 | [ShareTheHug](https://badgebase.co/emotes/emotesv2_724a8fce86c345488638b545e7caffda/) | Emote | 🟢 Added |
-| 2025-02-10 | [TwitchCon 2025 - Rotterdam](https://badgebase.co/badges/twitchcon-2025-rotterdam-v1/) | Badge | 🟢 Added |
+| 2025-02-10 | [TwitchCon 2025](https://badgebase.co/badges/twitchcon-2025-rotterdam-v1/) | Badge | 🟢 Added |
 | 2025-02-06 | [SimsPlumbob](https://badgebase.co/emotes/emotesv2_6581608ddd89425eb4374a34b6b4337e/) | Emote | 🔴 Removed |
 | 2025-02-04 | [SimsPlumbob](https://badgebase.co/emotes/emotesv2_6581608ddd89425eb4374a34b6b4337e/) | Emote | 🟢 Added |
 | 2024-12-20 | [PewPewPew](https://badgebase.co/emotes/emotesv2_587405136a8147148c77df74baaa1bf4/) | Emote | 🟢 Added |
