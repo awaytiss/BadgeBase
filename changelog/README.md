@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-07-02 | [MechaCharge](https://badgebase.co/emotes/emotesv2_4a709e77c64a4856b6e104d31b9b0d32/) | Emote | 🟢 Added |
 | 2025-06-28 | [LEGENDUS](https://badgebase.co/badges/legendus-v1/) | Badge | 🟢 Added |
 | 2025-06-24 | [League of Legends Mid Season Invitational 2025](https://badgebase.co/badges/league-of-legends-mid-season-invitational-2025-purple-v1/) | Badge | 🟢 Added |
 | 2025-06-24 | [League of League Mid Season Invitational 2025 Support a Streamer](https://badgebase.co/badges/league-of-legends-mid-season-invitational-2025-grey-v1/) | Badge | 🟢 Added |
