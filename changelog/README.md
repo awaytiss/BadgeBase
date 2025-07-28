@@ -10,6 +10,20 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-07-28 | [VeladaPerxitaa](https://badgebase.co/emotes/emotesv2_b3304483992d425e81240178eb11241d/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaPeereira](https://badgebase.co/emotes/emotesv2_2aec2b1d8bcf4e379baaf8ffbc9b2100/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaWestcol](https://badgebase.co/emotes/emotesv2_f95c139732b9499cb3bebbbb590a288a/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaViruzz](https://badgebase.co/emotes/emotesv2_9a3301a00b9a4536ba0b2a648599bb45/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaTomas](https://badgebase.co/emotes/emotesv2_276aa11f80da4d2989aa8ae99e37f961/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaRoro](https://badgebase.co/emotes/emotesv2_1fd771348feb4f69b76d7338a1a10706/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaRivaldios](https://badgebase.co/emotes/emotesv2_236e202c00244e3eb3ee7045c19e2907/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaGrefg](https://badgebase.co/emotes/emotesv2_b15b5f9a8fa24314a81af6a936f86f35/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaGaspi](https://badgebase.co/emotes/emotesv2_c349619ceb5b4155a963e2ed0a454fb1/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaCarlos](https://badgebase.co/emotes/emotesv2_ebe55cb4a4064c109aad7ff28465bf50/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaArigeli](https://badgebase.co/emotes/emotesv2_be0dcce31fec447e806742c9ec0471a9/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaAndoni](https://badgebase.co/emotes/emotesv2_05b93be780e94a029f1db507a39a7240/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaAlana](https://badgebase.co/emotes/emotesv2_8d4b53fd5f2f4b9bb327542509ae4abb/) | Emote | 🔴 Removed |
+| 2025-07-28 | [VeladaAbby](https://badgebase.co/emotes/emotesv2_37ad50015ca34bf79c440808fd9657e0/) | Emote | 🔴 Removed |
 | 2025-07-24 | [GunRun](https://badgebase.co/emotes/1584743/) | Emote | 🔴 Removed |
 | 2025-07-24 | [VeladaPerxitaa](https://badgebase.co/emotes/emotesv2_b3304483992d425e81240178eb11241d/) | Emote | 🟢 Added |
 | 2025-07-24 | [VeladaPeereira](https://badgebase.co/emotes/emotesv2_2aec2b1d8bcf4e379baaf8ffbc9b2100/) | Emote | 🟢 Added |
