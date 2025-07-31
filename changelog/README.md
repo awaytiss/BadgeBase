@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-07-31 | [Evo 2025](https://badgebase.co/badges/evo-2025-v1/) | Badge | 🟢 Added |
 | 2025-07-28 | [VeladaPerxitaa](https://badgebase.co/emotes/emotesv2_b3304483992d425e81240178eb11241d/) | Emote | 🔴 Removed |
 | 2025-07-28 | [VeladaPeereira](https://badgebase.co/emotes/emotesv2_2aec2b1d8bcf4e379baaf8ffbc9b2100/) | Emote | 🔴 Removed |
 | 2025-07-28 | [VeladaWestcol](https://badgebase.co/emotes/emotesv2_f95c139732b9499cb3bebbbb590a288a/) | Emote | 🔴 Removed |
