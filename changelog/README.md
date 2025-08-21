@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-08-21 | [Touch Grass](https://badgebase.co/badges/touch-grass-v1/) | Badge | 🟢 Added |
 | 2025-08-21 | [SnakeInBox](https://badgebase.co/emotes/emotesv2_9bfe7d5290f4493bab89d3b65fda59bf/) | Emote | 🟢 Added |
 | 2025-08-15 | [PsyCatNod](https://badgebase.co/emotes/emotesv2_1f69252c2562422bb4601110e927e0e3/) | Emote | 🟢 Added |
 | 2025-08-07 | [The First Descendant Badge](https://badgebase.co/badges/the-first-descendant-badge-v1/) | Badge | 🟢 Added |
