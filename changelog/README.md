@@ -10,6 +10,8 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-08-27 | [Chaos Orb](https://badgebase.co/badges/path-of-exile-ii-v1/) | Badge | 🔴 Removed |
+| 2025-08-27 | [Chaos Orb](https://badgebase.co/badges/path-of-exile-2-badge-v1/) | Badge | 🟢 Added |
 | 2025-08-26 | [Chaos Orb](https://badgebase.co/badges/path-of-exile-ii-v1/) | Badge | 🟢 Added |
 | 2025-08-21 | [Touch Grass](https://badgebase.co/badges/touch-grass-v1/) | Badge | 🟢 Added |
 | 2025-08-21 | [SnakeInBox](https://badgebase.co/emotes/emotesv2_9bfe7d5290f4493bab89d3b65fda59bf/) | Emote | 🟢 Added |
