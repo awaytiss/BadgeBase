@@ -12,6 +12,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 |------|------|------|--------|
 | 2025-08-29 | [PsyCatNod](https://badgebase.co/emotes/emotesv2_1f69252c2562422bb4601110e927e0e3/) | Emote | 🔴 Removed |
 | 2025-08-29 | [BossCleared](https://badgebase.co/emotes/emotesv2_af733ade48134f0ba333dfc780a2844c/) | Emote | 🔴 Removed |
+| 2025-08-29 | [Gears of War Superfan Badge](https://badgebase.co/badges/gears-of-war-superfan-badge-v1/) | Badge | 🟢 Added |
 | 2025-08-27 | [Chaos Orb](https://badgebase.co/badges/path-of-exile-ii-v1/) | Badge | 🔴 Removed |
 | 2025-08-27 | [Chaos Orb](https://badgebase.co/badges/path-of-exile-2-badge-v1/) | Badge | 🟢 Added |
 | 2025-08-26 | [Chaos Orb](https://badgebase.co/badges/path-of-exile-ii-v1/) | Badge | 🟢 Added |
