@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-09-04 | [ZEVENT25](https://badgebase.co/badges/zevent25-v1/) | Badge | 🟢 Added |
 | 2025-09-04 | [SpaceShake](https://badgebase.co/emotes/emotesv2_02d2524c3f5e47c6a0266e645740cb6a/) | Emote | 🟢 Added |
 | 2025-09-04 | [MegaphoneZ](https://badgebase.co/emotes/emotesv2_1b870724ff634b599d4a4643195ca98c/) | Emote | 🟢 Added |
 | 2025-09-03 | [Hornet](https://badgebase.co/badges/hornet-v1/) | Badge | 🟢 Added |
