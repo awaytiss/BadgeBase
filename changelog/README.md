@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-09-11 | [VCT Paris 2025](https://badgebase.co/badges/vct-paris-2025-v1/) | Badge | 🟢 Added |
 | 2025-09-10 | [Twitch Intern 2022](https://badgebase.co/badges/twitch-intern-2022-v1/) | Badge | 🟢 Added |
 | 2025-09-09 | [SpaceShake](https://badgebase.co/emotes/emotesv2_02d2524c3f5e47c6a0266e645740cb6a/) | Emote | 🔴 Removed |
 | 2025-09-04 | [ZEVENT25](https://badgebase.co/badges/zevent25-v1/) | Badge | 🟢 Added |
