@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-09-16 | [Video Games Day](https://badgebase.co/badges/video-games-day-v1/) | Badge | 🟢 Added |
 | 2025-09-15 | [FC26GOOOAL](https://badgebase.co/emotes/emotesv2_0d5dbcb1507c4234a0dcfa310faeee6c/) | Emote | 🟢 Added |
 | 2025-09-11 | [VCT Paris 2025](https://badgebase.co/badges/vct-paris-2025-v1/) | Badge | 🟢 Added |
 | 2025-09-10 | [Twitch Intern 2022](https://badgebase.co/badges/twitch-intern-2022-v1/) | Badge | 🟢 Added |
