@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-09-23 | [GP Explorer 3](https://badgebase.co/badges/gp-explorer-3-v1/) | Badge | 🟢 Added |
 | 2025-09-22 | [CasitaPR](https://badgebase.co/emotes/emotesv2_b6f559e4515f4813b0aa01236061ac30/) | Emote | 🔴 Removed |
 | 2025-09-22 | [Social Media Badge](https://badgebase.co/badges/social-sharing-v2/) | Badge | 🟢 Added |
 | 2025-09-22 | [Social Media Badge](https://badgebase.co/badges/social-sharing-v3/) | Badge | 🟢 Added |
