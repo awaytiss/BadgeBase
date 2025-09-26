@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-09-26 | [GamerDuo](https://badgebase.co/badges/gamerduo-v1/) | Badge | 🟢 Added |
 | 2025-09-26 | [Fast52](https://badgebase.co/emotes/emotesv2_5b532b5935db4387bb0b018c40bc00c2/) | Emote | 🟢 Added |
 | 2025-09-24 | [Sonic Racing](https://badgebase.co/badges/sonic-racing-crossworlds-v1/) | Badge | 🟢 Added |
 | 2025-09-23 | [Mel](https://badgebase.co/badges/mel-v1/) | Badge | 🟢 Added |
