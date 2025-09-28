@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-09-28 | [KaiMillion](https://badgebase.co/emotes/emotesv2_290c2cc5d9d047e9999daba6321fb374/) | Emote | 🟢 Added |
 | 2025-09-26 | [GamerDuo](https://badgebase.co/badges/gamerduo-v1/) | Badge | 🟢 Added |
 | 2025-09-26 | [DPFortnite](https://badgebase.co/emotes/emotesv2_68f7bf63920141f1876ea658b16b93b5/) | Emote | 🟢 Added |
 | 2025-09-26 | [Fast52](https://badgebase.co/emotes/emotesv2_5b532b5935db4387bb0b018c40bc00c2/) | Emote | 🟢 Added |
