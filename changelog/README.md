@@ -13,6 +13,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 | 2025-10-01 | [KaiMillion](https://badgebase.co/emotes/emotesv2_290c2cc5d9d047e9999daba6321fb374/) | Emote | 🔴 Removed |
 | 2025-10-01 | [The Onryō's Mask](https://badgebase.co/badges/the-onrys-mask-v1/) | Badge | 🔴 Removed |
 | 2025-10-01 | [The Onryō's Mask](https://badgebase.co/badges/the-onryos-mask-v1/) | Badge | 🟢 Added |
+| 2025-10-01 | [FaZe](https://badgebase.co/emotes/emotesv2_312a6e75e0884b348d5f55cbcb62adb4/) | Emote | 🟢 Added |
 | 2025-09-30 | [MechaCharge](https://badgebase.co/emotes/emotesv2_4a709e77c64a4856b6e104d31b9b0d32/) | Emote | 🔴 Removed |
 | 2025-09-30 | [The Onryō's Mask](https://badgebase.co/badges/the-onrys-mask-v1/) | Badge | 🟢 Added |
 | 2025-09-30 | [Gingko Leaf](https://badgebase.co/badges/gingko-leaf-v1/) | Badge | 🟢 Added |
