@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-10-07 | [Alone](https://badgebase.co/badges/alone-v1/) | Badge | 🟢 Added |
 | 2025-10-01 | [KaiMillion](https://badgebase.co/emotes/emotesv2_290c2cc5d9d047e9999daba6321fb374/) | Emote | 🔴 Removed |
 | 2025-10-01 | [The Onryō's Mask](https://badgebase.co/badges/the-onrys-mask-v1/) | Badge | 🔴 Removed |
 | 2025-10-01 | [The Onryō's Mask](https://badgebase.co/badges/the-onryos-mask-v1/) | Badge | 🟢 Added |
