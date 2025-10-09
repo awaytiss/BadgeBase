@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-10-09 | [The Man Without Fear](https://badgebase.co/badges/the-man-without-fear-v1/) | Badge | 🟢 Added |
 | 2025-10-09 | [Battlefield 6](https://badgebase.co/badges/battlefield-6-v1/) | Badge | 🟢 Added |
 | 2025-10-07 | [Low](https://badgebase.co/badges/low-v1/) | Badge | 🟢 Added |
 | 2025-10-07 | [Alone](https://badgebase.co/badges/alone-v1/) | Badge | 🟢 Added |
