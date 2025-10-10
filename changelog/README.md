@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-10-10 | [LoL Worlds 2025](https://badgebase.co/badges/lol-worlds-2025-v1/) | Badge | 🟢 Added |
 | 2025-10-10 | [BF6Hype](https://badgebase.co/emotes/emotesv2_e1ca071275e84878a5814e677aa9ec66/) | Emote | 🟢 Added |
 | 2025-10-09 | [The Man Without Fear](https://badgebase.co/badges/the-man-without-fear-v1/) | Badge | 🟢 Added |
 | 2025-10-09 | [Battlefield 6](https://badgebase.co/badges/battlefield-6-v1/) | Badge | 🟢 Added |
