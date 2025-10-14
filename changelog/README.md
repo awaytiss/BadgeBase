@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-10-14 | [Sajam Slam Badge](https://badgebase.co/badges/sajam-slam-badge-v1/) | Badge | 🟢 Added |
 | 2025-10-14 | [Pokémon Legends: Z-A Chikorita](https://badgebase.co/badges/pokemon-legends-z-a-chikorita-v1/) | Badge | 🟢 Added |
 | 2025-10-14 | [Pokémon Legends: Z-A Tepig](https://badgebase.co/badges/pokemon-legends-z-a-tepig-v1/) | Badge | 🟢 Added |
 | 2025-10-14 | [Pokémon Legends: Z-A Totodile](https://badgebase.co/badges/pokemon-legends-z-a-totodile-v1/) | Badge | 🟢 Added |
