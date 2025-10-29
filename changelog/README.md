@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-10-29 | [Arc Raiders Launch 2025](https://badgebase.co/badges/arc-raiders-launch-2025-v1/) | Badge | 🟢 Added |
 | 2025-10-29 | [Fright Fest 2025](https://badgebase.co/badges/fright-fest-2025-v1/) | Badge | 🟢 Added |
 | 2025-10-27 | [BF6Hype](https://badgebase.co/emotes/emotesv2_e1ca071275e84878a5814e677aa9ec66/) | Emote | 🔴 Removed |
 | 2025-10-14 | [Sajam Slam Badge](https://badgebase.co/badges/sajam-slam-badge-v1/) | Badge | 🟢 Added |
