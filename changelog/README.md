@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-11-12 | [Stream For Humanity 2](https://badgebase.co/badges/stream-for-humanity-2-2025-v1/) | Badge | 🟢 Added |
 | 2025-11-05 | [Black Ops 7 Global Launch](https://badgebase.co/badges/black-ops-7-global-launch-v1/) | Badge | 🟢 Added |
 | 2025-11-04 | [FaZe](https://badgebase.co/emotes/emotesv2_312a6e75e0884b348d5f55cbcb62adb4/) | Emote | 🔴 Removed |
 | 2025-10-29 | [Arc Raiders Launch 2025](https://badgebase.co/badges/arc-raiders-launch-2025-v1/) | Badge | 🟢 Added |
