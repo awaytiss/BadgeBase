@@ -10,12 +10,11 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
-| 2025-11-14 | [Kappa](https://badgebase.co/emotes/25/) | Emote | 🔴 Removed |
 | 2025-11-14 | [Together for Good '25 - Gooder Badge](https://badgebase.co/badges/together-for-good-25-gooder-badge-v1/) | Badge | 🟢 Added |
 | 2025-11-14 | [Together for Good '25 - Goodest Badge](https://badgebase.co/badges/together-for-good-25-goodest-badge-v1/) | Badge | 🟢 Added |
 | 2025-11-14 | [Together for Good '25 - Wicked Dub Badge](https://badgebase.co/badges/together-for-good-25-wicked-dub-badge-v1/) | Badge | 🟢 Added |
 | 2025-11-14 | [Together for Good '25 - Good Badge](https://badgebase.co/badges/together-for-good-25-good-badge-v1/) | Badge | 🟢 Added |
-| 2025-11-14 | [Kappa](https://badgebase.co/emotes/emotesv2_7de6575583e44682af236d819e106b86/) | Emote | 🟢 Added |
+| 2025-11-14 | [KappaReplacer](https://badgebase.co/emotes/emotesv2_7de6575583e44682af236d819e106b86/) | Emote | 🟢 Added |
 | 2025-11-12 | [Stream For Humanity 2](https://badgebase.co/badges/stream-for-humanity-2-2025-v1/) | Badge | 🟢 Added |
 | 2025-11-05 | [Black Ops 7 Global Launch](https://badgebase.co/badges/black-ops-7-global-launch-v1/) | Badge | 🟢 Added |
 | 2025-11-04 | [FaZe](https://badgebase.co/emotes/emotesv2_312a6e75e0884b348d5f55cbcb62adb4/) | Emote | 🔴 Removed |
