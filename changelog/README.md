@@ -10,6 +10,8 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-11-18 | [Survival Cup 4](https://badgebase.co/badges/survival-cup-4-v1/) | Badge | 🔴 Removed |
+| 2025-11-18 | [Survival Cup 4](https://badgebase.co/badges/survival-cup-4-v1/) | Badge | 🟢 Added |
 | 2025-11-17 | [GotGood](https://badgebase.co/emotes/emotesv2_5d0771d7a54d442fbc49c3965fe33c90/) | Emote | 🟢 Added |
 | 2025-11-17 | [GotWicked](https://badgebase.co/emotes/emotesv2_53491a9cf73749ab99c46776fa084d7a/) | Emote | 🟢 Added |
 | 2025-11-17 | [IronmouseLuv](https://badgebase.co/emotes/emotesv2_54c53ae67ad746d2bc866b6fc779183c/) | Emote | 🟢 Added |
