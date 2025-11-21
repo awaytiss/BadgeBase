@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-11-21 | [Chimera7](https://badgebase.co/emotes/emotesv2_b1c5f2a287454bbf9e8889090d6400a8/) | Emote | 🟢 Added |
 | 2025-11-20 | [SnakeInBox](https://badgebase.co/emotes/emotesv2_9bfe7d5290f4493bab89d3b65fda59bf/) | Emote | 🔴 Removed |
 | 2025-11-19 | [SipTime](https://badgebase.co/emotes/emotesv2_ba5ae4be5c724ca59d649fa713ff0730/) | Emote | 🟢 Added |
 | 2025-11-18 | [Survival Cup 4](https://badgebase.co/badges/survival-cup-4-v1/) | Badge | 🟢 Added |
