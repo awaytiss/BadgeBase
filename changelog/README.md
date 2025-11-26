@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-11-26 | [DeafeSports](https://badgebase.co/emotes/emotesv2_8e13364cf4054fd2a36b550d38ef578b/) | Emote | 🟢 Added |
 | 2025-11-24 | [DragonScimmy](https://badgebase.co/badges/dragonscimmy-v1/) | Badge | 🟢 Added |
 | 2025-11-21 | [Chimera7](https://badgebase.co/emotes/emotesv2_b1c5f2a287454bbf9e8889090d6400a8/) | Emote | 🟢 Added |
 | 2025-11-20 | [SnakeInBox](https://badgebase.co/emotes/emotesv2_9bfe7d5290f4493bab89d3b65fda59bf/) | Emote | 🔴 Removed |
