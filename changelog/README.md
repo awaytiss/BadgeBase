@@ -10,6 +10,8 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-12-04 | [RevedTV StreamAwards 2025](https://badgebase.co/badges/revedtv-streamawards-2025-v1/) | Badge | 🔴 Removed |
+| 2025-12-04 | [Rustmas 2025](https://badgebase.co/?post_type=global_badges&p=1489) | Badge | 🟢 Added |
 | 2025-12-03 | [GotGood](https://badgebase.co/emotes/emotesv2_5d0771d7a54d442fbc49c3965fe33c90/) | Emote | 🔴 Removed |
 | 2025-12-03 | [GotWicked](https://badgebase.co/emotes/emotesv2_53491a9cf73749ab99c46776fa084d7a/) | Emote | 🔴 Removed |
 | 2025-12-03 | [RevedTV StreamAwards 2025](https://badgebase.co/badges/revedtv-stream-awards-2025-v1/) | Badge | 🟢 Added |
