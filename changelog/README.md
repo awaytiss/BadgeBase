@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-12-06 | [TSAClappa](https://badgebase.co/emotes/emotesv2_b38f7e758a0f4b7f96fe2c0754c8a814/) | Emote | 🟢 Added |
 | 2025-12-05 | [The K4SEN Con 2025](https://badgebase.co/badges/k4sen-con-2025-v1/) | Badge | 🟢 Added |
 | 2025-12-04 | [RevedTV StreamAwards 2025](https://badgebase.co/badges/revedtv-streamawards-2025-v1/) | Badge | 🔴 Removed |
 | 2025-12-04 | [Rustmas 2025](https://badgebase.co/badges/rustmas-2025-v1/) | Badge | 🟢 Added |
