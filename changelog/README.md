@@ -10,7 +10,9 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-12-08 | [Lead Moderator](https://badgebase.co/badges/lead-moderator-v1/) | Badge | 🔴 Removed |
 | 2025-12-08 | [TSAClappa](https://badgebase.co/emotes/emotesv2_b38f7e758a0f4b7f96fe2c0754c8a814/) | Emote | 🔴 Removed |
+| 2025-12-08 | [Lead Moderator](https://badgebase.co/badges/lead_moderator-v1/) | Badge | 🟢 Added |
 | 2025-12-08 | [Lead Moderator](https://badgebase.co/badges/lead-moderator-v1/) | Badge | 🟢 Added |
 | 2025-12-07 | [Jeff the Land Shark](https://badgebase.co/badges/jeff-the-land-shark-v1/) | Badge | 🟢 Added |
 | 2025-12-06 | [TSAClappa](https://badgebase.co/emotes/emotesv2_b38f7e758a0f4b7f96fe2c0754c8a814/) | Emote | 🟢 Added |
