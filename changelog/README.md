@@ -10,6 +10,8 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-12-10 | [Support a Streamer HO'26 Badge](https://badgebase.co/badges/support-a-streamer-ho26-badge-v1/) | Badge | 🟢 Added |
+| 2025-12-10 | [Hunt Crosses](https://badgebase.co/badges/hunt-crosses-v1/) | Badge | 🟢 Added |
 | 2025-12-10 | [Raider Icon Badge](https://badgebase.co/badges/raider-icon-badge-v1/) | Badge | 🟢 Added |
 | 2025-12-08 | [Lead Moderator](https://badgebase.co/badges/lead-moderator-v1/) | Badge | 🔴 Removed |
 | 2025-12-08 | [TSAClappa](https://badgebase.co/emotes/emotesv2_b38f7e758a0f4b7f96fe2c0754c8a814/) | Emote | 🔴 Removed |
