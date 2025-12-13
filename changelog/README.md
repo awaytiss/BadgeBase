@@ -10,6 +10,9 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-12-12 | [15 years as Twitch Staff](https://badgebase.co/badges/15-years-as-twitch-staff-v1/) | Badge | 🟢 Added |
+| 2025-12-12 | [5 years as Twitch Staff](https://badgebase.co/badges/5-years-as-twitch-staff-v1/) | Badge | 🟢 Added |
+| 2025-12-12 | [10 years as Twitch Staff](https://badgebase.co/badges/10-years-as-twitch-staff-v1/) | Badge | 🟢 Added |
 | 2025-12-12 | [Diana](https://badgebase.co/badges/diana-v1/) | Badge | 🟢 Added |
 | 2025-12-11 | [ParisHype](https://badgebase.co/emotes/emotesv2_4abd6e1d94a34899818e683a1853b95d/) | Emote | 🟢 Added |
 | 2025-12-11 | [BaguetteBreak](https://badgebase.co/emotes/emotesv2_33a4d3059d66411cbc0a7d4d5635ec74/) | Emote | 🟢 Added |
