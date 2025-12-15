@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2025-12-15 | [KappaReplacer](https://badgebase.co/emotes/emotesv2_7de6575583e44682af236d819e106b86/) | Emote | 🔴 Removed |
 | 2025-12-12 | [15 years as Twitch Staff](https://badgebase.co/badges/15-years-as-twitch-staff-v1/) | Badge | 🟢 Added |
 | 2025-12-12 | [5 years as Twitch Staff](https://badgebase.co/badges/5-years-as-twitch-staff-v1/) | Badge | 🟢 Added |
 | 2025-12-12 | [10 years as Twitch Staff](https://badgebase.co/badges/10-years-as-twitch-staff-v1/) | Badge | 🟢 Added |
