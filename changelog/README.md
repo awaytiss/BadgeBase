@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-01-05 | [Mafiathon3](https://badgebase.co/emotes/emotesv2_d90b16b6a30443d08f745edc4b3646e7/) | Emote | 🔴 Removed |
 | 2026-01-05 | [IronmouseLuv](https://badgebase.co/emotes/emotesv2_54c53ae67ad746d2bc866b6fc779183c/) | Emote | 🔴 Removed |
 | 2025-12-15 | [ParisHype](https://badgebase.co/emotes/emotesv2_4abd6e1d94a34899818e683a1853b95d/) | Emote | 🔴 Removed |
 | 2025-12-15 | [BaguetteBreak](https://badgebase.co/emotes/emotesv2_33a4d3059d66411cbc0a7d4d5635ec74/) | Emote | 🔴 Removed |
