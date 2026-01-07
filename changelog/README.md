@@ -10,6 +10,34 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-01-07 | [HarleyWink](https://badgebase.co/emotes/emotesv2_8b0ac3eee4274a75868e3d0686d7b6f7/) | Emote | 🔴 Removed |
+| 2026-01-07 | [WhySoSerious](https://badgebase.co/emotes/emotesv2_1fda4a1b40094c93af334f8b60868a7c/) | Emote | 🔴 Removed |
+| 2026-01-07 | [DarkKnight](https://badgebase.co/emotes/emotesv2_d9567e500d78441793bee538dcabc1da/) | Emote | 🔴 Removed |
+| 2026-01-07 | [FamilyMan](https://badgebase.co/emotes/emotesv2_89f3f0761c7b4f708061e9e4be3b7d17/) | Emote | 🔴 Removed |
+| 2026-01-07 | [RyuChamp](https://badgebase.co/emotes/emotesv2_0ebc590ba68447269831af61d8bc9e0d/) | Emote | 🔴 Removed |
+| 2026-01-07 | [HungryPaimon](https://badgebase.co/emotes/emotesv2_535e40afa0b34a9481997627b1b47d96/) | Emote | 🔴 Removed |
+| 2026-01-07 | [PotFriend](https://badgebase.co/emotes/emotesv2_e02650251d204198923de93a0c62f5f5/) | Emote | 🔴 Removed |
+| 2026-01-07 | [MegaphoneZ](https://badgebase.co/emotes/emotesv2_1b870724ff634b599d4a4643195ca98c/) | Emote | 🔴 Removed |
+| 2026-01-07 | [NRWylder](https://badgebase.co/emotes/emotesv2_37e6845ef2f14499904b9ef99e7039be/) | Emote | 🔴 Removed |
+| 2026-01-07 | [DarthJarJar](https://badgebase.co/emotes/emotesv2_d1f3a59775454943b4e2c6a6db8892a2/) | Emote | 🔴 Removed |
+| 2026-01-07 | [StreamerU](https://badgebase.co/emotes/emotesv2_0815281d279e4fa5a63da5ad847c0de7/) | Emote | 🔴 Removed |
+| 2026-01-07 | [ZLANsup](https://badgebase.co/emotes/emotesv2_bd02ce011d11477cba6b2753e19fbd55/) | Emote | 🔴 Removed |
+| 2026-01-07 | [McDZombieHamburglar](https://badgebase.co/emotes/emotesv2_8e1771f1d00840d0b0e681a4b30b60e5/) | Emote | 🔴 Removed |
+| 2026-01-07 | [BangbooBounce](https://badgebase.co/emotes/emotesv2_f9feac06649548448b3127dd9bd7710e/) | Emote | 🔴 Removed |
+| 2026-01-07 | [PopGhost](https://badgebase.co/emotes/emotesv2_cff32f43571543828847738e27acf4ef/) | Emote | 🔴 Removed |
+| 2026-01-07 | [KingWorldCup](https://badgebase.co/emotes/emotesv2_533b8c4a9f6e4bfbb528ad39974e3481/) | Emote | 🔴 Removed |
+| 2026-01-07 | [ChewyYAY](https://badgebase.co/emotes/emotesv2_0e0a3592d8334ef5a1cfcae6f3e76acb/) | Emote | 🔴 Removed |
+| 2026-01-07 | [ForSigmar](https://badgebase.co/emotes/emotesv2_db3385fb0ea54913bf58fa5554edfdf2/) | Emote | 🔴 Removed |
+| 2026-01-07 | [FlawlessVictory](https://badgebase.co/emotes/emotesv2_0cb91e8a01c741fe9d4a0607f70395db/) | Emote | 🔴 Removed |
+| 2026-01-07 | [PikaRamen](https://badgebase.co/emotes/emotesv2_a25ad7124e584c949e2f63917e3d747a/) | Emote | 🔴 Removed |
+| 2026-01-07 | [NiceTry](https://badgebase.co/emotes/emotesv2_1f524be9838146e3bc9e529c17f797d3/) | Emote | 🔴 Removed |
+| 2026-01-07 | [LionOfYara](https://badgebase.co/emotes/emotesv2_adfadf0ae06a4258adc865761746b227/) | Emote | 🔴 Removed |
+| 2026-01-07 | [Lechonk](https://badgebase.co/emotes/emotesv2_665235901db747b1bd395a5f1c0ab8a9/) | Emote | 🔴 Removed |
+| 2026-01-07 | [Getcamped](https://badgebase.co/emotes/emotesv2_291135bb36d24d33bf53860128b5095c/) | Emote | 🔴 Removed |
+| 2026-01-07 | [FallHalp](https://badgebase.co/emotes/emotesv2_7f9b025d534544afaf679e13fbd47b88/) | Emote | 🔴 Removed |
+| 2026-01-07 | [FallCry](https://badgebase.co/emotes/emotesv2_2734f1a85677416a9d8f846a2d1b4721/) | Emote | 🔴 Removed |
+| 2026-01-07 | [FallWinning](https://badgebase.co/emotes/emotesv2_dee4ecfb7f0940bead9765da02c57ca9/) | Emote | 🔴 Removed |
+| 2026-01-07 | [MechaRobot](https://badgebase.co/emotes/emotesv2_0be25a1663bd472495b91e0302cec166/) | Emote | 🔴 Removed |
 | 2026-01-07 | [FC26GOOOAL](https://badgebase.co/emotes/emotesv2_0d5dbcb1507c4234a0dcfa310faeee6c/) | Emote | 🔴 Removed |
 | 2026-01-05 | [Mafiathon3](https://badgebase.co/emotes/emotesv2_d90b16b6a30443d08f745edc4b3646e7/) | Emote | 🔴 Removed |
 | 2026-01-05 | [IronmouseLuv](https://badgebase.co/emotes/emotesv2_54c53ae67ad746d2bc866b6fc779183c/) | Emote | 🔴 Removed |
