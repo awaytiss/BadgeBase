@@ -10,6 +10,10 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-01-07 | [PogBones](https://badgebase.co/emotes/emotesv2_30050f4353aa4322b25b6b044703e5d1/) | Emote | 🔴 Removed |
+| 2026-01-07 | [PoroSad](https://badgebase.co/emotes/emotesv2_4c39207000564711868f3196cc0a8748/) | Emote | 🔴 Removed |
+| 2026-01-07 | [KEKHeim](https://badgebase.co/emotes/emotesv2_7c5d25facc384c47963d25a5057a0b40/) | Emote | 🔴 Removed |
+| 2026-01-07 | [CaitlynS](https://badgebase.co/emotes/emotesv2_4acac638cffb4db49f376059f7077dae/) | Emote | 🔴 Removed |
 | 2026-01-07 | [AndalusianCrush](https://badgebase.co/emotes/emotesv2_ed53f0877c984ddcadfa500347b1fd0c/) | Emote | 🔴 Removed |
 | 2026-01-07 | [HarleyWink](https://badgebase.co/emotes/emotesv2_8b0ac3eee4274a75868e3d0686d7b6f7/) | Emote | 🔴 Removed |
 | 2026-01-07 | [WhySoSerious](https://badgebase.co/emotes/emotesv2_1fda4a1b40094c93af334f8b60868a7c/) | Emote | 🔴 Removed |
