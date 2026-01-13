@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-01-13 | [Umbrella Corporation](https://badgebase.co/badges/umbrella-corporation-v1/) | Badge | 🟢 Added |
 | 2026-01-08 | [Yagoo](https://badgebase.co/emotes/emotesv2_de2cc5fc92c645a29d0a4f40a9e7cde5/) | Emote | 🟢 Added |
 | 2026-01-07 | [PogBones](https://badgebase.co/emotes/emotesv2_30050f4353aa4322b25b6b044703e5d1/) | Emote | 🔴 Removed |
 | 2026-01-07 | [PoroSad](https://badgebase.co/emotes/emotesv2_4c39207000564711868f3196cc0a8748/) | Emote | 🔴 Removed |
