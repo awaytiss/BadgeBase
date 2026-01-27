@@ -10,6 +10,8 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-01-27 | [Bungie Foundation Supporter](https://badgebase.co/badges/bungie-foundation-supporter-v1/) | Badge | 🟢 Added |
+| 2026-01-27 | [Bungie Foundation Ally](https://badgebase.co/badges/bungie-foundation-ally-v1/) | Badge | 🟢 Added |
 | 2026-01-21 | [NowField](https://badgebase.co/emotes/emotesv2_5148800ae75540ad9db9430bbda206a4/) | Emote | 🔴 Removed |
 | 2026-01-21 | [NowField](https://badgebase.co/emotes/emotesv2_3db6b02aabee45c69aefe85337569035/) | Emote | 🟢 Added |
 | 2026-01-21 | [NowField](https://badgebase.co/emotes/emotesv2_5148800ae75540ad9db9430bbda206a4/) | Emote | 🟢 Added |
