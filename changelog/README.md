@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-02-02 | [DeafeSports](https://badgebase.co/emotes/emotesv2_8e13364cf4054fd2a36b550d38ef578b/) | Emote | 🔴 Removed |
 | 2026-01-28 | [Kodama](https://badgebase.co/badges/kodama-v1/) | Badge | 🟢 Added |
 | 2026-01-27 | [Bungie Foundation Supporter](https://badgebase.co/badges/bungie-foundation-supporter-v1/) | Badge | 🟢 Added |
 | 2026-01-27 | [Bungie Foundation Ally](https://badgebase.co/badges/bungie-foundation-ally-v1/) | Badge | 🟢 Added |
