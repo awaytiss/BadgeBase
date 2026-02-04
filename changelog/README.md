@@ -11,7 +11,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 | Date | Name | Type | Status |
 |------|------|------|--------|
 | 2026-02-04 | [Chimera7](https://badgebase.co/emotes/emotesv2_b1c5f2a287454bbf9e8889090d6400a8/) | Emote | 🔴 Removed |
-| 2026-02-04 | [Diablo 30th Anniversary](https://badgebase.co/?post_type=global_badges&p=1571) | Badge | 🟢 Added |
+| 2026-02-04 | [Diablo 30th Anniversary](https://badgebase.co/badges/diablo-30th-anniversary-v1/) | Badge | 🟢 Added |
 | 2026-02-04 | [BingBongLove](https://badgebase.co/badges/bingbonglove-v1/) | Badge | 🟢 Added |
 | 2026-02-04 | [Lost Ark Anniversary](https://badgebase.co/badges/lost-ark-anniversary-v1/) | Badge | 🟢 Added |
 | 2026-02-04 | [Scampuss](https://badgebase.co/badges/scampuss-v1/) | Badge | 🟢 Added |
