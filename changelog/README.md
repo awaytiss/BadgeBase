@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-02-13 | [Fischer](https://badgebase.co/badges/fischer-v1/) | Badge | 🟢 Added |
 | 2026-02-10 | [JasonTheWeen 7 Day Survival](https://badgebase.co/badges/jasontheween-7-day-survival-v1/) | Badge | 🟢 Added |
 | 2026-02-09 | [Fit2Win](https://badgebase.co/emotes/emotesv2_a5df0e09382c4fc592daf99559a54335/) | Emote | 🔴 Removed |
 | 2026-02-07 | [Fit2Win](https://badgebase.co/emotes/emotesv2_a5df0e09382c4fc592daf99559a54335/) | Emote | 🟢 Added |
