@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-02-17 | [Seek's Eye](https://badgebase.co/badges/seeks-eye-v1/) | Badge | 🟢 Added |
 | 2026-02-15 | [The Deer](https://badgebase.co/badges/the-deer-v1/) | Badge | 🟢 Added |
 | 2026-02-13 | [Fischer](https://badgebase.co/badges/fischer-v1/) | Badge | 🟢 Added |
 | 2026-02-10 | [JasonTheWeen 7 Day Survival](https://badgebase.co/badges/jasontheween-7-day-survival-v1/) | Badge | 🟢 Added |
