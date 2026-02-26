@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-02-26 | [Pokémon 30th](https://badgebase.co/badges/pokemon-30th-anniversary-v1/) | Badge | 🟢 Added |
 | 2026-02-26 | [Mr. Raccoon](https://badgebase.co/badges/mr-raccoon-v1/) | Badge | 🟢 Added |
 | 2026-02-26 | [Toxic Zombie](https://badgebase.co/badges/toxic-zombie-v1/) | Badge | 🟢 Added |
 | 2026-02-26 | [Marathon Silkworm](https://badgebase.co/badges/marathon-silkworm-v1/) | Badge | 🟢 Added |
