@@ -10,8 +10,8 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
-| 2026-02-26 | [Marathon Silkworm](https://badgebase.co/?post_type=global_badges&p=1589) | Badge | 🟢 Added |
-| 2026-02-26 | [Marathon Sub Burger](https://badgebase.co/?post_type=global_badges&p=1590) | Badge | 🟢 Added |
+| 2026-02-26 | [Marathon Silkworm](https://badgebase.co/badges/marathon-silkworm-v1/) | Badge | 🟢 Added |
+| 2026-02-26 | [Marathon Sub Burger](https://badgebase.co/badges/marathon-sub-burger-v1/) | Badge | 🟢 Added |
 | 2026-02-25 | [Aang](https://badgebase.co/badges/aang-v1/) | Badge | 🟢 Added |
 | 2026-02-19 | [Hypershot Celestial](https://badgebase.co/badges/hypershot-celestial-v1/) | Badge | 🟢 Added |
 | 2026-02-17 | [Seek's Eye](https://badgebase.co/badges/seeks-eye-v1/) | Badge | 🟢 Added |
