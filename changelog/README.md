@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-02-26 | [Toxic Zombie](https://badgebase.co/badges/toxic-zombie-v1/) | Badge | 🟢 Added |
 | 2026-02-26 | [Marathon Silkworm](https://badgebase.co/badges/marathon-silkworm-v1/) | Badge | 🟢 Added |
 | 2026-02-26 | [Marathon Sub Burger](https://badgebase.co/badges/marathon-sub-burger-v1/) | Badge | 🟢 Added |
 | 2026-02-25 | [Aang](https://badgebase.co/badges/aang-v1/) | Badge | 🟢 Added |
