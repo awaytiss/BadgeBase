@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-03-05 | [The K4SEN Con 2025](https://badgebase.co/badges/k4sen-con-2025-v1/) | Badge | 🔴 Removed |
 | 2026-03-05 | [RedNoseDay26](https://badgebase.co/emotes/emotesv2_764745bbad634590a939bf69f1575922/) | Emote | 🟢 Added |
 | 2026-03-04 | [Ditto](https://badgebase.co/badges/ditto-v1/) | Badge | 🟢 Added |
 | 2026-03-02 | [RobloxCheer](https://badgebase.co/emotes/emotesv2_dc3b3821baad41b8a0d9f79237c114bb/) | Emote | 🔴 Removed |
