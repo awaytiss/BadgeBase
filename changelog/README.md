@@ -10,6 +10,8 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-03-11 | [First Stand 2026 Supporter](https://badgebase.co/badges/first-strike-2026-supporter-v1/) | Badge | 🟢 Added |
+| 2026-03-11 | [First Stand 2026 Viewer](https://badgebase.co/badges/first-strike-2026-viewer-v1/) | Badge | 🟢 Added |
 | 2026-03-11 | [Crimson Butterfly](https://badgebase.co/badges/crimson-butterfly-v1/) | Badge | 🟢 Added |
 | 2026-03-05 | [RedNoseDay26](https://badgebase.co/emotes/emotesv2_764745bbad634590a939bf69f1575922/) | Emote | 🟢 Added |
 | 2026-03-04 | [Ditto](https://badgebase.co/badges/ditto-v1/) | Badge | 🟢 Added |
