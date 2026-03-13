@@ -10,6 +10,11 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-03-12 | [First Stand 2026 Supporter](https://badgebase.co/badges/first-strike-2026-supporter-v1/) | Badge | 🔴 Removed |
+| 2026-03-12 | [First Stand 2026 Viewer](https://badgebase.co/badges/first-strike-2026-viewer-v1/) | Badge | 🔴 Removed |
+| 2026-03-12 | [QSMP2](https://badgebase.co/badges/qsmp2-v1/) | Badge | 🟢 Added |
+| 2026-03-12 | [First Stand 2026 Supporter](https://badgebase.co/badges/first-stand-2026-supporter-v1/) | Badge | 🟢 Added |
+| 2026-03-12 | [First Stand 2026 Viewer](https://badgebase.co/badges/first-stand-2026-viewer-v1/) | Badge | 🟢 Added |
 | 2026-03-12 | [Rudy](https://badgebase.co/badges/rudy-v1/) | Badge | 🟢 Added |
 | 2026-03-11 | [First Stand 2026 Supporter](https://badgebase.co/badges/first-strike-2026-supporter-v1/) | Badge | 🟢 Added |
 | 2026-03-11 | [First Stand 2026 Viewer](https://badgebase.co/badges/first-strike-2026-viewer-v1/) | Badge | 🟢 Added |
