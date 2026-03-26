@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-03-26 | [Star Force Mega Man](https://badgebase.co/badges/star-force-mega-man-v1/) | Badge | 🟢 Added |
 | 2026-03-26 | [PUACL2026 FINALS Charizard](https://badgebase.co/badges/puacl2026-finals-charizard-v1/) | Badge | 🟢 Added |
 | 2026-03-23 | [WoWMidnight](https://badgebase.co/emotes-archive/emotesv2_3ffb1454600e4a33bd99a8b6894e6737/) | Emote | 🔴 Removed |
 | 2026-03-23 | [Borderlands 4 - C4SH](https://badgebase.co/badges/borderlands-4-c4sh-v1/) | Badge | 🟢 Added |
