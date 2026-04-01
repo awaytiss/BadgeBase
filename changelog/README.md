@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-04-01 | [RedNoseDay26](https://badgebase.co/emotes-archive/emotesv2_764745bbad634590a939bf69f1575922/) | Emote | 🔴 Removed |
 | 2026-03-31 | [Bloom Badge Level 1](https://badgebase.co/badges/bloom-badge-v1/) | Badge | 🟢 Added |
 | 2026-03-31 | [Bloom Badge Level 2](https://badgebase.co/badges/bloom-badge-v2/) | Badge | 🟢 Added |
 | 2026-03-31 | [Bloom Badge Level 3](https://badgebase.co/badges/bloom-badge-v3/) | Badge | 🟢 Added |
