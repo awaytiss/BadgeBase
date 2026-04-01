@@ -10,10 +10,10 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
-| 2026-03-31 | [Bloom Badge Level 1](https://badgebase.co/?post_type=global_badges&p=1647) | Badge | 🟢 Added |
-| 2026-03-31 | [Bloom Badge Level 2](https://badgebase.co/?post_type=global_badges&p=1648) | Badge | 🟢 Added |
-| 2026-03-31 | [Bloom Badge Level 3](https://badgebase.co/?post_type=global_badges&p=1649) | Badge | 🟢 Added |
-| 2026-03-31 | [Bloom Badge Level 4](https://badgebase.co/?post_type=global_badges&p=1650) | Badge | 🟢 Added |
+| 2026-03-31 | [Bloom Badge Level 1](https://badgebase.co/badges/bloom-badge-v1/) | Badge | 🟢 Added |
+| 2026-03-31 | [Bloom Badge Level 2](https://badgebase.co/badges/bloom-badge-v2/) | Badge | 🟢 Added |
+| 2026-03-31 | [Bloom Badge Level 3](https://badgebase.co/badges/bloom-badge-v3/) | Badge | 🟢 Added |
+| 2026-03-31 | [Bloom Badge Level 4](https://badgebase.co/badges/bloom-badge-v4/) | Badge | 🟢 Added |
 | 2026-03-30 | [NASA Artemis II](https://badgebase.co/badges/nasa-artemis-ii-v1/) | Badge | 🟢 Added |
 | 2026-03-26 | [Star Force Mega Man](https://badgebase.co/badges/star-force-mega-man-v1/) | Badge | 🟢 Added |
 | 2026-03-26 | [PUACL2026 FINALS Charizard](https://badgebase.co/badges/puacl2026-finals-charizard-v1/) | Badge | 🟢 Added |
