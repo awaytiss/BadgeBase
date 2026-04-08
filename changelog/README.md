@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-04-08 | [2026 BAFTA Games Awards badge](https://badgebase.co/badges/2026-bafta-games-awards-badge-v1/) | Badge | 🟢 Added |
 | 2026-04-03 | [CDawg Cyclethon 5 Badge](https://badgebase.co/badges/cdawg-cyclethon-5-badge-v1/) | Badge | 🟢 Added |
 | 2026-04-03 | [Baby Chick Chat Badge](https://badgebase.co/badges/baby-chick-chat-badge-v1/) | Badge | 🟢 Added |
 | 2026-04-01 | [Bloom Badge Level 1](https://badgebase.co/badges/bloom-badge-v1/) | Badge | 🔴 Removed |
