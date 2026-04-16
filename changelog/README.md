@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-04-16 | [Clair Obscur: Expedition 33 One Year Anniversary](https://badgebase.co/?post_type=global_badges&p=1669) | Badge | 🟢 Added |
 | 2026-04-13 | [Dodomogged](https://badgebase.co/badges/dodomogged-v1/) | Badge | 🟢 Added |
 | 2026-04-13 | [Winston Overwatch](https://badgebase.co/badges/winston-overwatch-v1/) | Badge | 🟢 Added |
 | 2026-04-09 | [PogChamps 6 7](https://badgebase.co/badges/pogchamps-6-7-v1/) | Badge | 🟢 Added |
