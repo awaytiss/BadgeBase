@@ -20,10 +20,6 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 | 2026-04-08 | [2026 BAFTA Games Awards badge](https://badgebase.co/badges/2026-bafta-games-awards-badge-v1/) | Badge | 🟢 Added |
 | 2026-04-03 | [CDawg Cyclethon 5 Badge](https://badgebase.co/badges/cdawg-cyclethon-5-badge-v1/) | Badge | 🟢 Added |
 | 2026-04-03 | [Baby Chick](https://badgebase.co/badges/baby-chick-chat-badge-v1/) | Badge | 🟢 Added |
-| 2026-04-01 | [Bloom Badge Level 1](https://badgebase.co/badges/bloom-badge-v1/) | Badge | 🔴 Removed |
-| 2026-04-01 | [Bloom Badge Level 2](https://badgebase.co/badges/bloom-badge-v2/) | Badge | 🔴 Removed |
-| 2026-04-01 | [Bloom Badge Level 3](https://badgebase.co/badges/bloom-badge-v3/) | Badge | 🔴 Removed |
-| 2026-04-01 | [Bloom Badge Level 4](https://badgebase.co/badges/bloom-badge-v4/) | Badge | 🔴 Removed |
 | 2026-04-01 | [RedNoseDay26](https://badgebase.co/emotes-archive/emotesv2_764745bbad634590a939bf69f1575922/) | Emote | 🔴 Removed |
 | 2026-03-31 | [Bloom Badge Level 1](https://badgebase.co/badges/bloom-badge-v1/) | Badge | 🟢 Added |
 | 2026-03-31 | [Bloom Badge Level 2](https://badgebase.co/badges/bloom-badge-v2/) | Badge | 🟢 Added |
