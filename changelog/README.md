@@ -10,6 +10,10 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-04-17 | [Bloom Badge Level 1](https://badgebase.co/badges/bloom-badge-v1/) | Badge | 🔴 Removed |
+| 2026-04-17 | [Bloom Badge Level 2](https://badgebase.co/badges/bloom-badge-v2/) | Badge | 🔴 Removed |
+| 2026-04-17 | [Bloom Badge Level 3](https://badgebase.co/badges/bloom-badge-v3/) | Badge | 🔴 Removed |
+| 2026-04-17 | [Bloom Badge Level 4](https://badgebase.co/badges/bloom-badge-v4/) | Badge | 🔴 Removed |
 | 2026-04-16 | [Cryana](https://badgebase.co/badges/cryana-v1/) | Badge | 🟢 Added |
 | 2026-04-16 | [Clair Obscur: Expedition 33 One Year Anniversary](https://badgebase.co/badges/clair-obscur-expedition-33-one-year-anniversary-v1/) | Badge | 🟢 Added |
 | 2026-04-13 | [Dodomogged](https://badgebase.co/badges/dodomogged-v1/) | Badge | 🟢 Added |
