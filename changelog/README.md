@@ -11,6 +11,12 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 | Date | Name | Type | Status |
 |------|------|------|--------|
 | 2026-04-21 | [NowField](https://badgebase.co/emotes-archive/emotesv2_3db6b02aabee45c69aefe85337569035/) | Emote | 🔴 Removed |
+| 2026-04-21 | [Final Fantasy XIV Fan Festival 2026 JP - Alpha Chat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-jp-alpha-chat-v1/) | Badge | 🟢 Added |
+| 2026-04-21 | [Final Fantasy XIV Fan Festival 2026 JP - Quest Complete Chat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-jp-quest-complete-chat-v1/) | Badge | 🟢 Added |
+| 2026-04-21 | [Final Fantasy XIV Fan Festival 2026 EU - Content Unlock Quest Chat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-eu-content-unlock-quest-chat-v1/) | Badge | 🟢 Added |
+| 2026-04-21 | [Final Fantasy XIV Fan Festival 2026 EU - Moogle Chat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-eu-moogle-chat-v1/) | Badge | 🟢 Added |
+| 2026-04-21 | [Final Fantasy XIV Fan Festival 2026 NA - Fat Cat Chat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-na-fat-cat-chat-v1/) | Badge | 🟢 Added |
+| 2026-04-21 | [Final Fantasy XIV Fan Festival 2026 NA - Main Scenario Quest Chat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-na-main-scenario-quest-chat-v1/) | Badge | 🟢 Added |
 | 2026-04-17 | [Bloom Badge Level 1](https://badgebase.co/badges/bloom-badge-v1/) | Badge | 🔴 Removed |
 | 2026-04-17 | [Bloom Badge Level 2](https://badgebase.co/badges/bloom-badge-v2/) | Badge | 🔴 Removed |
 | 2026-04-17 | [Bloom Badge Level 3](https://badgebase.co/badges/bloom-badge-v3/) | Badge | 🔴 Removed |
