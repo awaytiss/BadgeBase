@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-04-23 | [Invincible VS](https://badgebase.co/badges/invincible-vs-v1/) | Badge | 🟢 Added |
 | 2026-04-21 | [NowField](https://badgebase.co/emotes-archive/emotesv2_3db6b02aabee45c69aefe85337569035/) | Emote | 🔴 Removed |
 | 2026-04-21 | [Final Fantasy XIV Fan Festival 2026 JP - Alpha Chat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-jp-alpha-chat-v1/) | Badge | 🟢 Added |
 | 2026-04-21 | [Final Fantasy XIV Fan Festival 2026 JP - Quest Complete Chat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-jp-quest-complete-chat-v1/) | Badge | 🟢 Added |
