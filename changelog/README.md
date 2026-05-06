@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-05-06 | [SpeeDons 6](https://badgebase.co/badges/speedons-6-v1/) | Badge | 🟢 Added |
 | 2026-05-01 | [Unicorn Tachanka](https://badgebase.co/badges/unicorn-tachanka-v1/) | Badge | 🟢 Added |
 | 2026-04-24 | [Final Fantasy XIV Fan Festival 2026 NA - Main Scenario Quest ](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-na-main-scenario-quest-v1/) | Badge | 🟢 Added |
 | 2026-04-24 | [Final Fantasy XIV Fan Festival 2026 NA - Fat Cat](https://badgebase.co/badges/final-fantasy-xiv-fan-festival-2026-na-fat-cat-v1/) | Badge | 🟢 Added |
