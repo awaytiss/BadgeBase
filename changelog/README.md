@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-05-06 | [Creator Campaign Reward](https://badgebase.co/badges/default-creator-campaign-reward-v1/) | Badge | 🟢 Added |
 | 2026-05-06 | [CRASH](https://badgebase.co/badges/crash-v1/) | Badge | 🟢 Added |
 | 2026-05-06 | [Went Outside](https://badgebase.co/badges/went-outside-v1/) | Badge | 🟢 Added |
 | 2026-05-06 | [SpeeDons 6](https://badgebase.co/badges/speedons-6-v1/) | Badge | 🟢 Added |
