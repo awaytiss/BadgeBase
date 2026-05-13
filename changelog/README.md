@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-05-13 | [Waterslug](https://badgebase.co/badges/waterslug-v1/) | Badge | 🟢 Added |
 | 2026-05-11 | [Yuzu](https://badgebase.co/badges/yuzu-v1/) | Badge | 🟢 Added |
 | 2026-05-11 | [Hime](https://badgebase.co/badges/hime-v1/) | Badge | 🟢 Added |
 | 2026-05-06 | [Creator Campaign Reward](https://badgebase.co/badges/default-creator-campaign-reward-v1/) | Badge | 🟢 Added |
