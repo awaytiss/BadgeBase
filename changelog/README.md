@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-05-14 | [Civ VII - Test of Time](https://badgebase.co/badges/civ-vii-test-of-time-v1/) | Badge | 🟢 Added |
 | 2026-05-14 | [BrawlhallAwoo](https://badgebase.co/badges/brawlhallawoo-v1/) | Badge | 🟢 Added |
 | 2026-05-13 | [Waterslug](https://badgebase.co/badges/waterslug-v1/) | Badge | 🟢 Added |
 | 2026-05-11 | [Yuzu](https://badgebase.co/badges/yuzu-v1/) | Badge | 🟢 Added |
