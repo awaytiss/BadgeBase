@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-05-19 | [Alterra Corporation](https://badgebase.co/badges/alterra-corporation-v1/) | Badge | 🟢 Added |
 | 2026-05-15 | [RoadToTwitchCon26](https://badgebase.co/badges/road-to-twitchcon-26-v1/) | Badge | 🟢 Added |
 | 2026-05-15 | [LEGO® Batman™: Legacy of the Dark Knight](https://badgebase.co/badges/lego-batman-legacy-of-the-dark-knight-v1/) | Badge | 🟢 Added |
 | 2026-05-15 | [Skulls 10th Anniversary](https://badgebase.co/badges/skulls-10th-anniversary-v1/) | Badge | 🟢 Added |
