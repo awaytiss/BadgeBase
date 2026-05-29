@@ -10,6 +10,7 @@ _A complete timeline of Twitch global badges and emotes changes since 2024._
 
 | Date | Name | Type | Status |
 |------|------|------|--------|
+| 2026-05-29 | [Mod Founder](https://badgebase.co/badges/mod-founder-v1/) | Badge | 🟢 Added |
 | 2026-05-27 | [Wholesome Direct 2026](https://badgebase.co/badges/wholesome-direct-2026-v1/) | Badge | 🟢 Added |
 | 2026-05-22 | [Bubsy 4D!](https://badgebase.co/badges/bubsy-4d-v1/) | Badge | 🟢 Added |
 | 2026-05-19 | [Alterra Corporation](https://badgebase.co/badges/alterra-corporation-v1/) | Badge | 🟢 Added |
